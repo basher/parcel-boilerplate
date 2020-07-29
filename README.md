@@ -20,6 +20,5 @@ Additionally, configured
 
 ## Test in browser
 
-* `npm start` creates static assets with map files in `dist` folder.
-* `npm run start:html` launches test page in browser.
+* `npm start` launches test page in browser.
 * `npm build` creates minified static assets with map files in `dist` folder.
