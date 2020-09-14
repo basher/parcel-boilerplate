@@ -1,3 +1,6 @@
+> - This repo is **no longer maintained**.
+> - It has been superceded by [this repo](https://github.com/basher/parcel-boilerplate-storybook).
+
 # Use Parcel to bundle UI
 
 ## Boilerplate setup.
